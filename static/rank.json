@@ -1,0 +1,43 @@
+{
+  "data": [{
+    "name": "露儿",
+    "amount": 3545.20,
+    "src": "/static/images/head/luer.jpg"
+  }, {
+    "name": "小艾可",
+    "amount": 3540.59,
+    "src": "/static/images/head/xiaoaike.jpg"
+  }, {
+    "name": "NKing",
+    "amount": 3501.80,
+    "src": "/static/images/head/NKing.jpg"
+  }, {
+    "name": "田一坡|T.G",
+    "amount": 3004.00,
+    "src": "/static/images/head/tianyipo.jpg"
+  }, {
+    "name": "a欣",
+    "amount": 2980.40,
+    "src": "/static/images/head/axin.jpg"
+  }, {
+    "name": "×兲笙疯癫^_^",
+    "amount": 2776.44,
+    "src": "/static/images/head/fengdian.jpg"
+  }, {
+    "name": "东方宏",
+    "amount": 2677.50,
+    "src": "/static/images/head/dongfanghong.jpg"
+  }, {
+    "name": "金Yankee ",
+    "amount": 2560.75,
+    "src": "/static/images/head/yankee.jpg"
+  }, {
+    "name": "我是33啊",
+    "amount": 2555.25,
+    "src": "/static/images/head/woshi33.jpg"
+  }, {
+    "name": "阿Po",
+    "amount": 2341.10,
+    "src": "/static/images/head/apo.jpg"
+  } ]
+}
